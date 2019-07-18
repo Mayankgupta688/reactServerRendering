@@ -1,0 +1,27 @@
+{
+  "name": "eact-server-rendering",
+  "version": "1.0.0",
+  "description": "Server Side Rendering of React Component",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayankgupta688/reactServerRendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayankgupta688/reactServerRendering/issues"
+  },
+  "homepage": "https://github.com/Mayankgupta688/reactServerRendering#readme"
+}
