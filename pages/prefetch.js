@@ -29,7 +29,6 @@ class PrefetchComponent extends Component {
 
   }
   render() {
-      debugger;
     return (
         <div>
             {   this.state.posts.map(post => (
